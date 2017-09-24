@@ -28,11 +28,11 @@ Now upload our sketche and reference. We use a reference illustration with blur 
 
 ![image](https://user-images.githubusercontent.com/19834515/30781114-d5fe5b5e-a14b-11e7-8d01-2f459a3baccf.png)
 
-由于这张线稿本身的噪点很少，质量较高，所以我们不勾选*denoise*。
+Because this sketch is sharp and clean, we do not check the *denoise*.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781146-a850f95e-a14c-11e7-8f6d-ea45159979f1.png)
 
-这四个选项对于上色有重要的意义，现在分别将V1到V4的结果展示出来。
+This four toggles are important for AI painting. We now list the V1-V4 results below.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781175-f61130f0-a14c-11e7-90bc-e0643b830052.png)
 
@@ -42,11 +42,11 @@ Now upload our sketche and reference. We use a reference illustration with blur 
 
 ![image](https://user-images.githubusercontent.com/19834515/30781221-950d49d2-a14d-11e7-8e4c-4a3a138ed9ac.png)
 
-上面是V1到V4的大致对比。
+Here is the comparison between V1-V4.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781245-1ebc5240-a14e-11e7-9c92-c70eae744af8.png)
 
-上面是V1到V4的细节对比。
+Here is the detailed comparison.
 
 由于笔者认为V4的效果最好，所以我们这里继续使用V4来讲解。
 
