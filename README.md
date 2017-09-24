@@ -6,19 +6,19 @@
 
 ![image](https://user-images.githubusercontent.com/19834515/30780925-601df226-a148-11e7-9af2-1c3165bdd6f7.png)
 
-首先，你的软件打开之后应该是这个样子的。对于初学者来说应该先点击红框里面的那个下载一个图包。
+This is a screenshot of the web APP. If you are a beginner, we recommend you to download the *default_refernces.zip*. You can get this file by clicking the link marked in red square.
 
 ![image](https://user-images.githubusercontent.com/19834515/30780911-3577021a-a148-11e7-85fd-b76eeea8a31a.png)
 
-下载完成后是这样的。
+Then decompress the zip file and you will get some illustrations like this.
 
 ![image](https://user-images.githubusercontent.com/19834515/30780936-83e1c46c-a148-11e7-9e68-2eea4ad4639c.png)
 
-图包里面有15张色彩跨度比较大，比较适合AI读取的图片，基本上可以处理绝大部分的线稿。
+There are 15 illustations in the default package with different color. These illustrations are well-suited for AI to learn and you can deal with nearly all sketches with these 15 images.
 
 <img src="https://user-images.githubusercontent.com/19834515/30780973-55764520-a149-11e7-8539-a6ff758be8bf.jpg" height = "512"/>
 
-我们使用这张线稿作为一个例子，这张线稿具有较为丰富的纹理信息，比较适合讲解。
+We will use this sketch as an example. This sketch is rich in detailed features and it is very suitable for AI colorization. We will describe many usage of our web APP in the colorization procedure.
 
 *对于纹理信息不丰富的线稿，AI也可以处理的很好，参见[这里](https://github.com/lllyasviel/style2paints/blob/master/README.md)的Example5。*
 
