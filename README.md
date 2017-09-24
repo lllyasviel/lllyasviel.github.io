@@ -52,13 +52,12 @@ In this example, I think V4 is best, so lets continue with V4.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781636-81939cf0-a155-11e7-8f5f-b023cff12ad4.png)
 
-首先我们鼠标移动到参考图上，鼠标会变成十字准星。然后我们选取参考图里面的皮肤的颜色。参考图片左下角有一个正方形的小框，里面是你选中的颜色。由于图中选中的是肤色，小正方形预览框中显示的是肤色。（可能有点看不清，但是不妨碍我们讲解。）
-
 When we move our mouse to the reference image, the cursor will becomes a cross. In fact, the reference image is a color picked and you can select any color in it. Now we select the skin color on the face. A tiny square is left to the reference image and the selected color will be shown here. In the screenshot above, the skin color is selected and the selected color is shown on the tiny square.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781698-5bf1aec8-a156-11e7-9ee5-01ada5f5b7b4.png)
 
 接着我们选中颜色后，把鼠标移动到线稿上面，鼠标在应该是肤色的一些部位点击，过程中可以不断点击上色来看效果。
+After the skin color is selected, you can move your mouse to the sketch and 
 
 ![image](https://user-images.githubusercontent.com/19834515/30781714-b948f3a6-a156-11e7-9e3c-1562bd6a33e1.png)
 
