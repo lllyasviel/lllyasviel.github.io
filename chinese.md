@@ -16,3 +16,6 @@
 
 *对于纹理信息不丰富的线稿，AI也可以处理的很好，参见[这里](https://github.com/lllyasviel/style2paints/blob/master/README.md)的Example5。*
 
+![image](https://user-images.githubusercontent.com/19834515/30781065-0a56eca0-a14b-11e7-8d9e-c9ca94ebdad5.png)
+
+我们通过*upload sketch*和*upload reference*按钮分别上传了线稿和参考图。这里选择了蓝色发色灰色背景的参考图。参考图片的选择是随意的，结果的好坏也是随机的没有任何规律可循，一般来说需要多试几次。建议使用*default_refernces.zip*里面的参考图片，那些图片是作者筛选出来的成功率比较大的参考图片。
