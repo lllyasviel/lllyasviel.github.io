@@ -72,6 +72,16 @@
 
 ![image](https://user-images.githubusercontent.com/19834515/30781779-eac9c666-a157-11e7-8006-392cd0da9782.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30781787-0c05d982-a158-11e7-9b40-aa3a37541a8c.png)
+上面一个例子中，*denoise*效果很明显，把多余的噪点去除了。
+
+![image](https://user-images.githubusercontent.com/19834515/30781819-a2338256-a158-11e7-81ee-ba49b59c2655.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/30781800-4a0c909a-a158-11e7-8f7f-0ecc3e516e12.png)
+
+上面一个例子中，*denoise*与否似乎都有优点。
+
+![image](https://user-images.githubusercontent.com/19834515/30781836-f94e5282-a158-11e7-9c0d-de837895a02a.png)
+
+![image](https://user-images.githubusercontent.com/19834515/30781837-fd071e90-a158-11e7-9e7c-43d49bdf3b68.png)
+
+上面是细节对比。
