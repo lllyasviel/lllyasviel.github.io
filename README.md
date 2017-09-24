@@ -1,8 +1,8 @@
 [中文版](https://lllyasviel.github.io/chinese)
 
-**注意！本文作者没有任何美术功底！**
+**The author of this article is not skilled at color or painting.**
 
-**本文所有上色的效果图片全部都是由作者这个上色小白点击按钮得出的结果。**
+**All the colorization results are obtained by clicking buttons or canvases.**
 
 ![image](https://user-images.githubusercontent.com/19834515/30780925-601df226-a148-11e7-9af2-1c3165bdd6f7.png)
 
