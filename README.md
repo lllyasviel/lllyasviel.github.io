@@ -72,26 +72,26 @@ After about 5 minutes, we get a good result.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781763-64f90538-a157-11e7-9394-2d32258721b1.png)
 
-*denoise*是一个很有趣的选择。有的时候能够提升质量，有的时候会降低质量。建议用户都试一试。下面是两个例子。
+The *denoise* is an interesting toggle and it sometimes improves the results and sometimes do on the contrary.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781776-dae78986-a157-11e7-9b13-ff99f8e8bd68.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/30781779-eac9c666-a157-11e7-8006-392cd0da9782.png)
 
-上面一个例子中，*denoise*效果很明显，把多余的噪点去除了。
+In the example above, the *denoise* works well and removes many noisy lines.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781819-a2338256-a158-11e7-81ee-ba49b59c2655.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/30781800-4a0c909a-a158-11e7-8f7f-0ecc3e516e12.png)
 
-上面一个例子中，*denoise*与否似乎都有优点。
+In this example, it seems hard to tell which is better.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781836-f94e5282-a158-11e7-9c0d-de837895a02a.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/30781837-fd071e90-a158-11e7-9e7c-43d49bdf3b68.png)
 
-上面是细节对比。
+The detailed comparison.
 
-PS: 利用参考图调色来改变颜色是用户提升上色质量最主要的手段。但是有的时候如果AI认为用户给出的颜色非常的难看，它也会反抗用户的提示。
+PS: You can add any color hints, but the AI will sometimes resist to the hints in some cases.
 
-PSS: 建议给每张图片都多多实验几个不同的参考图来提升效果，*巧合*是这个AI最崇尚的东西。
+PSS: The secret of a good result is trying more reference images, and the *default_refernces.zip* is recommended.
