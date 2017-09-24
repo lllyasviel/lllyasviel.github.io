@@ -1,5 +1,7 @@
 ## The short instruction of style2paints
 
+[中文版点击这里](https://lllyasviel.github.io/chinese)
+
 ![image](https://user-images.githubusercontent.com/19834515/30679525-bf221140-9ecc-11e7-96de-666f74d3ed69.png)
 
 In short, you can upload a sketch and a reference, and just click colorize.
