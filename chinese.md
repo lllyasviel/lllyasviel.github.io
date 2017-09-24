@@ -6,3 +6,6 @@
 
 下载完成后是这样的。
 
+![image](https://user-images.githubusercontent.com/19834515/30780936-83e1c46c-a148-11e7-9e68-2eea4ad4639c.png)
+
+图包里面有15张色彩跨度比较大，比较适合AI读取的图片，基本上可以处理绝大部分的线稿。
