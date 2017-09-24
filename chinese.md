@@ -9,3 +9,10 @@
 ![image](https://user-images.githubusercontent.com/19834515/30780936-83e1c46c-a148-11e7-9e68-2eea4ad4639c.png)
 
 图包里面有15张色彩跨度比较大，比较适合AI读取的图片，基本上可以处理绝大部分的线稿。
+
+<img src="https://user-images.githubusercontent.com/19834515/30780973-55764520-a149-11e7-8539-a6ff758be8bf.jpg" height = "512"/>
+
+我们使用这张线稿作为一个例子，这张线稿具有较为丰富的纹理信息，比较适合讲解。
+
+*对于纹理信息不丰富的线稿，AI也可以处理的很好，参见[这里](https://github.com/lllyasviel/style2paints)的Example5。*
+
