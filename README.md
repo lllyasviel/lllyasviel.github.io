@@ -56,20 +56,19 @@ When we move our mouse to the reference image, the cursor will becomes a cross. 
 
 ![image](https://user-images.githubusercontent.com/19834515/30781698-5bf1aec8-a156-11e7-9ee5-01ada5f5b7b4.png)
 
-接着我们选中颜色后，把鼠标移动到线稿上面，鼠标在应该是肤色的一些部位点击，过程中可以不断点击上色来看效果。
-After the skin color is selected, you can move your mouse to the sketch and 
+After the skin color is selected, you can move your mouse to the sketch and add hints for the AI by clicking where should be skin. You can click *colorize* to get new result and then add some additional hints and then click *colorize* and then add hints......But keep in mind that **small and pointed hints are fine and you do not need to full fill some color blocks**.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781714-b948f3a6-a156-11e7-9e3c-1562bd6a33e1.png)
 
-接着是给尾巴黑色。
+Now we add black hints to the tail.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781725-f1555a50-a156-11e7-97ad-2c39fe5236cc.png)
 
-给耳朵调整颜色。
+Now the ears.
 
 ![sep2401000426812 fin](https://user-images.githubusercontent.com/19834515/30781737-1599bf00-a157-11e7-8ddb-00de5416fe13.png)
 
-五分钟后，这是较为满意的结果。
+After about 5 minutes, we get a good result.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781763-64f90538-a157-11e7-9394-2d32258721b1.png)
 
