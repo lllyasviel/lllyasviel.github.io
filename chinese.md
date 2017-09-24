@@ -14,5 +14,5 @@
 
 我们使用这张线稿作为一个例子，这张线稿具有较为丰富的纹理信息，比较适合讲解。
 
-*对于纹理信息不丰富的线稿，AI也可以处理的很好，参见[这里](https://github.com/lllyasviel/style2paints)的Example5。*
+*对于纹理信息不丰富的线稿，AI也可以处理的很好，参见[这里](https://github.com/lllyasviel/style2paints/blob/master/README.md)的Example5。*
 
