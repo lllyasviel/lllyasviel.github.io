@@ -38,3 +38,7 @@
 
 上面是V1到V4的大致对比。
 
+![image](https://user-images.githubusercontent.com/19834515/30781245-1ebc5240-a14e-11e7-9c92-c70eae744af8.png)
+
+上面是V1到V4的细节对比。
+
