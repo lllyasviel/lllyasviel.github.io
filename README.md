@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## The short instruction of style2paints
 
-You can use the [editor on GitHub](https://github.com/lllyasviel/lllyasviel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/19834515/30679525-bf221140-9ecc-11e7-96de-666f74d3ed69.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In short, you can upload a sketch and a reference, and just click colorize.
 
-### Markdown
+![image](https://user-images.githubusercontent.com/19834515/30679570-f96a6f8c-9ecc-11e7-8bf2-d8fa427f769e.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What is important is that your reference image will become a color picker once it is uploaded. You can select any color via clicking your reference image and give hint to the AI via clicking your sketch, just like paintschainer.
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/19834515/30679618-43f06ee4-9ecd-11e7-9634-3f6784cd61d2.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Just click the reference and then make some pointed hints on your sketch.
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/19834515/30679661-859fcde4-9ecd-11e7-9c92-197d128fbe3c.png)
 
-**Bold** and _Italic_ and `Code` text
+You can give the AI many hints like this.
 
-[Link](url) and ![Image](src)
-```
+![image](https://user-images.githubusercontent.com/19834515/30679698-cc1e574a-9ecd-11e7-89cf-fc044495ce9e.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+But keep in mind that the AI is very sensitive to your hints. In most cases, a single and small point is fine. You do not need to so much some messy hints to cover sketch blocks. Small and pointed hints are recommended.
 
-### Jekyll Themes
+![image](https://user-images.githubusercontent.com/19834515/30679720-f6d58b5c-9ecd-11e7-868c-003fd1a04d66.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lllyasviel/lllyasviel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+These 4 toggles are very important.
 
-### Support or Contact
+![image](https://user-images.githubusercontent.com/19834515/30679743-273f8f54-9ece-11e7-8109-d21a22eecf65.png)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In some cases, shifting these toggles will make a big improvement in colorization.
+
+![image](https://user-images.githubusercontent.com/19834515/30679770-5235852e-9ece-11e7-86b2-94c22712d752.png)
+![image](https://user-images.githubusercontent.com/19834515/30679784-6f85b70c-9ece-11e7-8cf3-caaa1f416530.png)
+
+So we recommend you try all of these V1, V2, V3, V4 for your sketches.
+
+![image](https://user-images.githubusercontent.com/19834515/30776135-d901e848-a0d3-11e7-8b48-01db6dcd4c65.png)
+You can try this toggle to denoise the result.
+
+Good luck and have fun.
+
+
+
