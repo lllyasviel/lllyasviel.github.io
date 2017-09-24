@@ -42,3 +42,24 @@
 
 上面是V1到V4的细节对比。
 
+由于笔者认为V4的效果最好，所以我们这里继续使用V4来讲解。
+
+![image](https://user-images.githubusercontent.com/19834515/30781636-81939cf0-a155-11e7-8f5f-b023cff12ad4.png)
+
+首先我们鼠标移动到参考图上，鼠标会变成十字准星。然后我们选取参考图里面的皮肤的颜色。参考图片左下角有一个正方形的小框，里面是你选中的颜色。由于图中选中的是肤色，小正方形预览框中显示的是肤色。（可能有点看不清，但是不妨碍我们讲解。）
+
+![image](https://user-images.githubusercontent.com/19834515/30781698-5bf1aec8-a156-11e7-9ee5-01ada5f5b7b4.png)
+
+接着我们选中颜色后，把鼠标移动到线稿上面，鼠标在应该是肤色的一些部位点击，过程中可以不断点击上色来看效果。
+
+![image](https://user-images.githubusercontent.com/19834515/30781714-b948f3a6-a156-11e7-9e3c-1562bd6a33e1.png)
+
+接着是给尾巴黑色。
+
+![image](https://user-images.githubusercontent.com/19834515/30781725-f1555a50-a156-11e7-97ad-2c39fe5236cc.png)
+
+给耳朵调整颜色。
+
+![sep2401000426812 fin](https://user-images.githubusercontent.com/19834515/30781737-1599bf00-a157-11e7-8ddb-00de5416fe13.png)
+
+五分钟后，这是较为满意的结果。
