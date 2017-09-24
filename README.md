@@ -24,7 +24,7 @@ We will use this sketch as an example. This sketch is rich in detailed features 
 
 ![image](https://user-images.githubusercontent.com/19834515/30781065-0a56eca0-a14b-11e7-8d9e-c9ca94ebdad5.png)
 
-Now upload our sketche and reference. We use a reference illustration with blur hair and gray background. You can select any reference images with any color. You can improve the colorization quality via trying more references and find a best one. There are nearly no trick to find the best reference in a single time. The more, the better. We highly recommend you use the images in *default_refernces.zip* and these images are selected by the author, well-suited for AI to read.
+Now upload our sketche and reference. We use a reference illustration with blue hair and gray background. You can select any reference images with any color. You can improve the colorization quality via trying more references and find a best one. There are nearly no trick to find the best reference in a single time. The more, the better. We highly recommend you use the images in *default_refernces.zip* and these images are selected by the author, well-suited for AI to read.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781114-d5fe5b5e-a14b-11e7-8d01-2f459a3baccf.png)
 
