@@ -74,11 +74,11 @@
 
 看完这里例子之后，你可能会觉得V4是最好的，但是其实V1、V2、V3、V4中的任何一个都有自己的优点和不足之处，比如下面这个例子中V2是最好的。
 
-![image](https://user-images.githubusercontent.com/19834515/30924716-2981f64e-a3e2-11e7-9d51-ea2b67a8cda6.png)
+![image](https://user-images.githubusercontent.com/19834515/30924534-95c6cff6-a3e1-11e7-897b-b8871267489d.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/30924506-811735dc-a3e1-11e7-88af-78dc2eeeedf6.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30924534-95c6cff6-a3e1-11e7-897b-b8871267489d.png)
+![image](https://user-images.githubusercontent.com/19834515/30924716-2981f64e-a3e2-11e7-9d51-ea2b67a8cda6.png)
 
 *denoise*是一个很有趣的选择。有的时候能够提升质量，有的时候会降低质量。建议用户都试一试。下面是两个例子。
 
