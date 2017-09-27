@@ -52,7 +52,7 @@ In this example, I think V4 is best, so lets continue with V4.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781636-81939cf0-a155-11e7-8f5f-b023cff12ad4.png)
 
-When we move our mouse to the reference image, the cursor will becomes a cross. In fact, the reference image is a color picked and you can select any color in it. Now we select the skin color on the face. A tiny square is left to the reference image and the selected color will be shown here. In the screenshot above, the skin color is selected and the selected color is shown on the tiny square.
+When we move our mouse to the reference image, the cursor will becomes a cross. In fact, the reference image is a color picker and you can select any color in it. Now we select the skin color on the face. A tiny square is left to the reference image and the selected color will be shown here. In the screenshot above, the skin color is selected and the selected color is shown on the tiny square.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781698-5bf1aec8-a156-11e7-9ee5-01ada5f5b7b4.png)
 
@@ -68,7 +68,15 @@ Now the ears.
 
 ![sep2401000426812 fin](https://user-images.githubusercontent.com/19834515/30781737-1599bf00-a157-11e7-8ddb-00de5416fe13.png)
 
-After about 5 minutes, we get a good result.
+After about 5 minutes, we get a good result. After this example, some may think of that V4 is always the best and we do not need V1-V3, but in fact V4 has its own drawbacks.
+
+![image](https://user-images.githubusercontent.com/19834515/30924534-95c6cff6-a3e1-11e7-897b-b8871267489d.png)
+
+![image](https://user-images.githubusercontent.com/19834515/30924506-811735dc-a3e1-11e7-88af-78dc2eeeedf6.png)
+
+![image](https://user-images.githubusercontent.com/19834515/30924716-2981f64e-a3e2-11e7-9d51-ea2b67a8cda6.png)
+
+Each of V1, v2, V3, V4 has advantages and disadvantages, and V2 is the best in the example above.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781763-64f90538-a157-11e7-9394-2d32258721b1.png)
 
