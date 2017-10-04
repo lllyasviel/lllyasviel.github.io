@@ -70,7 +70,23 @@
 
 其实V1、V2、V3、V4中的任何一个都有自己的优点和不足之处，比如上面这个例子中V2是最好的。
 
+![image](https://user-images.githubusercontent.com/19834515/31159367-189d7d4e-a8fb-11e7-92ae-6e0c9b6f3913.png)
 
+*FSAA*是一组很有趣的选项，其中D0和D1可以用来给结果降噪，SX可以用来给成品的插画进行风格迁移。
+
+![image](https://user-images.githubusercontent.com/19834515/31159475-f3dd5096-a8fb-11e7-80db-6fb61555c09f.png)
+
+![image](https://user-images.githubusercontent.com/19834515/31159485-04569900-a8fc-11e7-842a-c0c817718e94.png)
+
+![image](https://user-images.githubusercontent.com/19834515/31159449-c253b452-a8fb-11e7-8697-a75f6d588a6b.png)
+
+上面的三张图展示了D0和D1在降噪方面的差异。
+
+![image](https://user-images.githubusercontent.com/19834515/31159516-412bd214-a8fc-11e7-8772-e5b479bf4027.png)
+
+![image](https://user-images.githubusercontent.com/19834515/31159525-587f8c62-a8fc-11e7-82bb-0f3a64cd0775.png)
+
+上面两张图展示了SX这个选项当你的输入不是线稿而是成品图片的时候非常适合。
 
 PS: 利用参考图调色来改变颜色是用户提升上色质量最主要的手段。但是有的时候如果AI认为用户给出的颜色非常的难看，它也会反抗用户的提示。
 
