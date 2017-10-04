@@ -1,7 +1,3 @@
-**注意！本文作者没有任何美术功底！**
-
-**本文所有上色的效果图片全部都是由作者这个上色小白点击按钮得出的结果。**
-
 ![image](https://user-images.githubusercontent.com/19834515/30780925-601df226-a148-11e7-9af2-1c3165bdd6f7.png)
 
 首先，你的软件打开之后应该是这个样子的。对于初学者来说应该先点击红框里面的那个下载一个图包。
@@ -23,10 +19,6 @@
 ![image](https://user-images.githubusercontent.com/19834515/30781065-0a56eca0-a14b-11e7-8d9e-c9ca94ebdad5.png)
 
 我们通过*upload sketch*和*upload reference*按钮分别上传了线稿和参考图。这里选择了蓝色发色灰色背景的参考图。参考图片的选择是随意的，结果的好坏也是随机的没有任何规律可循，一般来说需要多试几次。建议使用*default_refernces.zip*里面的参考图片，那些图片是作者筛选出来的成功率比较大的参考图片。
-
-![image](https://user-images.githubusercontent.com/19834515/30781114-d5fe5b5e-a14b-11e7-8d01-2f459a3baccf.png)
-
-由于这张线稿本身的噪点很少，质量较高，所以我们不勾选*denoise*。
 
 ![image](https://user-images.githubusercontent.com/19834515/30781146-a850f95e-a14c-11e7-8f6d-ea45159979f1.png)
 
@@ -78,27 +70,7 @@
 
 其实V1、V2、V3、V4中的任何一个都有自己的优点和不足之处，比如上面这个例子中V2是最好的。
 
-![image](https://user-images.githubusercontent.com/19834515/30781763-64f90538-a157-11e7-9394-2d32258721b1.png)
 
-*denoise*是一个很有趣的选择。有的时候能够提升质量，有的时候会降低质量。建议用户都试一试。下面是两个例子。
-
-![image](https://user-images.githubusercontent.com/19834515/30781776-dae78986-a157-11e7-9b13-ff99f8e8bd68.png)
-
-![image](https://user-images.githubusercontent.com/19834515/30781779-eac9c666-a157-11e7-8006-392cd0da9782.png)
-
-上面一个例子中，*denoise*效果很明显，把多余的噪点去除了。
-
-![image](https://user-images.githubusercontent.com/19834515/30781819-a2338256-a158-11e7-81ee-ba49b59c2655.png)
-
-![image](https://user-images.githubusercontent.com/19834515/30781800-4a0c909a-a158-11e7-8f7f-0ecc3e516e12.png)
-
-上面一个例子中，*denoise*与否似乎都有优点。
-
-![image](https://user-images.githubusercontent.com/19834515/30781836-f94e5282-a158-11e7-9c0d-de837895a02a.png)
-
-![image](https://user-images.githubusercontent.com/19834515/30781837-fd071e90-a158-11e7-9e7c-43d49bdf3b68.png)
-
-上面是细节对比。
 
 PS: 利用参考图调色来改变颜色是用户提升上色质量最主要的手段。但是有的时候如果AI认为用户给出的颜色非常的难看，它也会反抗用户的提示。
 
