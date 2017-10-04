@@ -1,9 +1,5 @@
 [中文版](https://lllyasviel.github.io/chinese)
 
-**The author of this article is not skilled at color or painting.**
-
-**All the colorization results are obtained by clicking buttons or canvases.**
-
 ![image](https://user-images.githubusercontent.com/19834515/30780925-601df226-a148-11e7-9af2-1c3165bdd6f7.png)
 
 This is a screenshot of the web APP. If you are a beginner, we recommend you to download the *default_refernces.zip*. You can get this file by clicking the link marked in red square.
@@ -25,10 +21,6 @@ We will use this sketch as an example. This sketch is rich in detailed features 
 ![image](https://user-images.githubusercontent.com/19834515/30781065-0a56eca0-a14b-11e7-8d9e-c9ca94ebdad5.png)
 
 Now upload our sketche and reference. We use a reference illustration with blue hair and gray background. You can select any reference images with any color. You can improve the colorization quality via trying more references and find a best one. There are nearly no trick to find the best reference in a single time. The more, the better. We highly recommend you use the images in *default_refernces.zip* and these images are selected by the author, well-suited for AI to read.
-
-![image](https://user-images.githubusercontent.com/19834515/30781114-d5fe5b5e-a14b-11e7-8d01-2f459a3baccf.png)
-
-Because this sketch is sharp and clean, we do not check the *denoise*.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781146-a850f95e-a14c-11e7-8f6d-ea45159979f1.png)
 
@@ -78,27 +70,23 @@ After about 5 minutes, we get a good result. After this example, some may think 
 
 Each of V1, v2, V3, V4 has advantages and disadvantages, and V2 is the best in the example above.
 
-![image](https://user-images.githubusercontent.com/19834515/30781763-64f90538-a157-11e7-9394-2d32258721b1.png)
+![image](https://user-images.githubusercontent.com/19834515/31159367-189d7d4e-a8fb-11e7-92ae-6e0c9b6f3913.png)
 
-The *denoise* is an interesting toggle and it sometimes improves the results and sometimes do on the contrary.
+*FSAA* toggles are important. The *D0* and *D1* can denoise the results and the *SX* can do style transfer for illustrations.
 
-![image](https://user-images.githubusercontent.com/19834515/30781776-dae78986-a157-11e7-9b13-ff99f8e8bd68.png)
+![image](https://user-images.githubusercontent.com/19834515/31159475-f3dd5096-a8fb-11e7-80db-6fb61555c09f.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30781779-eac9c666-a157-11e7-8006-392cd0da9782.png)
+![image](https://user-images.githubusercontent.com/19834515/31159580-aca5c37e-a8fc-11e7-85c0-4393d88873e9.png)
 
-In the example above, the *denoise* works well and removes many noisy lines.
+![image](https://user-images.githubusercontent.com/19834515/31159449-c253b452-a8fb-11e7-8697-a75f6d588a6b.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30781819-a2338256-a158-11e7-81ee-ba49b59c2655.png)
+The 3 screenshots above show how *D1* improves the result by denoising.
 
-![image](https://user-images.githubusercontent.com/19834515/30781800-4a0c909a-a158-11e7-8f7f-0ecc3e516e12.png)
+![image](https://user-images.githubusercontent.com/19834515/31159516-412bd214-a8fc-11e7-8772-e5b479bf4027.png)
 
-In this example, it seems hard to tell which is better.
+![image](https://user-images.githubusercontent.com/19834515/31159525-587f8c62-a8fc-11e7-82bb-0f3a64cd0775.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30781836-f94e5282-a158-11e7-9c0d-de837895a02a.png)
-
-![image](https://user-images.githubusercontent.com/19834515/30781837-fd071e90-a158-11e7-9e7c-43d49bdf3b68.png)
-
-The detailed comparison.
+The 2 screenshots above show how *SX* do style transfer for illustations.
 
 PS: You can add any color hints, but the AI will sometimes resist to the hints in some cases.
 
