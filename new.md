@@ -1,8 +1,8 @@
 [中文版](https://lllyasviel.github.io/chinese)
 
-![image](https://user-images.githubusercontent.com/19834515/30780925-601df226-a148-11e7-9af2-1c3165bdd6f7.png)
+![image](https://user-images.githubusercontent.com/19834515/31306645-c9971bc2-ab86-11e7-915f-0dad0b1f9c58.png)
 
-This is a screenshot of the web APP. If you are a beginner, we recommend you to download the *default_refernces.zip*. You can get this file by clicking the link marked in red square.
+This is a screenshot of the web APP. If you are a beginner, we recommend you to download the *default_refernces.zip*. You can get this file by clicking the link marked in red arror.
 
 ![image](https://user-images.githubusercontent.com/19834515/30780911-3577021a-a148-11e7-85fd-b76eeea8a31a.png)
 
@@ -18,9 +18,13 @@ We will use this sketch as an example. This sketch is rich in detailed features 
 
 *The AI is also good at deal with simple sketches without detailed features, check [here](https://github.com/lllyasviel/style2paints/blob/master/README.md) and find the example 5.*
 
-![image](https://user-images.githubusercontent.com/19834515/30781065-0a56eca0-a14b-11e7-8d9e-c9ca94ebdad5.png)
+![image](https://user-images.githubusercontent.com/19834515/31306675-6cc3daf6-ab87-11e7-854a-8de39c30af69.png)
 
 Now upload our sketche and reference. We use a reference illustration with blue hair and gray background. You can select any reference images with any color. You can improve the colorization quality via trying more references and find a best one. There are nearly no trick to find the best reference in a single time. The more, the better. We highly recommend you use the images in *default_refernces.zip* and these images are selected by the author, well-suited for AI to read.
+
+![image](https://user-images.githubusercontent.com/19834515/31306681-9b12ea6e-ab87-11e7-8299-3fb54188ec42.png)
+
+You can one of the two buttons to colorize your sketch.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781146-a850f95e-a14c-11e7-8f6d-ea45159979f1.png)
 
