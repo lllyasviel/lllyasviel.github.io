@@ -76,21 +76,21 @@ Each of V1, v2, V3, V4 has advantages and disadvantages, and V2 is the best in t
 
 ![image](https://user-images.githubusercontent.com/19834515/31306789-ccc407f8-ab89-11e7-8bf7-a5bded1ca991.png)
 
-*FSAA* toggles are important. The *D0* and *D1* can denoise the results and the *SX* can do style transfer for illustrations.
+These toggles related to inputs are important. 
 
-![image](https://user-images.githubusercontent.com/19834515/31159475-f3dd5096-a8fb-11e7-80db-6fb61555c09f.png)
+![image](https://user-images.githubusercontent.com/19834515/31306839-4f799db6-ab8a-11e7-9063-e4bbec81a270.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/31159580-aca5c37e-a8fc-11e7-85c0-4393d88873e9.png)
 
-![image](https://user-images.githubusercontent.com/19834515/31159449-c253b452-a8fb-11e7-8697-a75f6d588a6b.png)
+![image](https://user-images.githubusercontent.com/19834515/31306841-5eca8b7c-ab8a-11e7-9412-679380a7b119.png)
 
-The 3 screenshots above show how *D1* improves the result by denoising.
+The 3 screenshots above show how if improves the result by denoising.
 
-![image](https://user-images.githubusercontent.com/19834515/31159516-412bd214-a8fc-11e7-8772-e5b479bf4027.png)
+![image](https://user-images.githubusercontent.com/19834515/31306849-941f4a60-ab8a-11e7-890b-88bae54f8495.png)
 
-![image](https://user-images.githubusercontent.com/19834515/31159525-587f8c62-a8fc-11e7-82bb-0f3a64cd0775.png)
+![image](https://user-images.githubusercontent.com/19834515/31306854-b451d7a8-ab8a-11e7-8390-662559eb4498.png)
 
-The 2 screenshots above show how *SX* do style transfer for illustations.
+The 2 screenshots above show how it do style transfer for illustations.
 
 PS: You can add any color hints, but the AI will sometimes resist to the hints in some cases.
 
