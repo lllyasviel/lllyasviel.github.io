@@ -1,6 +1,4 @@
-[中文版](https://lllyasviel.github.io/chinese)
-
-![image](https://user-images.githubusercontent.com/19834515/31306645-c9971bc2-ab86-11e7-915f-0dad0b1f9c58.png)
+﻿![image](https://user-images.githubusercontent.com/19834515/31306645-c9971bc2-ab86-11e7-915f-0dad0b1f9c58.png)
 
 This is a screenshot of the web APP. If you are a beginner, we recommend you to download the *default_refernces.zip*. You can get this file by clicking the link marked in red arror.
 
