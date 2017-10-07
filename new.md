@@ -78,7 +78,7 @@ Each of V1, v2, V3, V4 has advantages and disadvantages, and V2 is the best in t
 
 These toggles related to inputs are important. 
 
-![image](https://user-images.githubusercontent.com/19834515/31306839-4f799db6-ab8a-11e7-9063-e4bbec81a270.png)
+![image](https://user-images.githubusercontent.com/19834515/31307112-d0e12dc4-ab8f-11e7-9bc5-309148312962.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/31159580-aca5c37e-a8fc-11e7-85c0-4393d88873e9.png)
 
@@ -86,11 +86,13 @@ These toggles related to inputs are important.
 
 The 3 screenshots above show how if improves the result by denoising.
 
+![image](https://user-images.githubusercontent.com/19834515/31307131-0f9352cc-ab90-11e7-9366-e19e2854fac0.png)
+
 ![image](https://user-images.githubusercontent.com/19834515/31306849-941f4a60-ab8a-11e7-890b-88bae54f8495.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/31306854-b451d7a8-ab8a-11e7-8390-662559eb4498.png)
 
-The 2 screenshots above show how it do style transfer for illustations.
+The 3 screenshots above show how it do style transfer for illustations.
 
 PS: You can add any color hints, but the AI will sometimes resist to the hints in some cases.
 
