@@ -1,32 +1,32 @@
 ﻿![image](https://user-images.githubusercontent.com/19834515/31306645-c9971bc2-ab86-11e7-915f-0dad0b1f9c58.png)
 
-This is a screenshot of the web APP. If you are a beginner, we recommend you to download the *default_refernces.zip*. You can get this file by clicking the link marked in red arror.
+これはweb APPのスクリーンショットです。 初心者の方は、*default_refernces.zip*をダウンロードすることをお勧めします。 このファイルは、赤い傷跡のあるリンクをクリックすると表示されます。
 
 ![image](https://user-images.githubusercontent.com/19834515/30780911-3577021a-a148-11e7-85fd-b76eeea8a31a.png)
 
-Then decompress the zip file and you will get some illustrations like this.
+zipファイルを解凍すると、次のようなイラストが表示されます。
 
 ![image](https://user-images.githubusercontent.com/19834515/30780936-83e1c46c-a148-11e7-9e68-2eea4ad4639c.png)
 
-There are 15 illustations in the default package with different color. These illustrations are well-suited for AI to learn and you can deal with nearly all sketches with these 15 images.
+デフォルトのパッケージには色の異なる15枚のイラストがあります。 これらのイラストは、AIには習得するのに適しており、これらの15枚の画像でほぼすべてのスケッチを扱うことができます。
 
 <img src="https://user-images.githubusercontent.com/19834515/30780973-55764520-a149-11e7-8539-a6ff758be8bf.jpg" height = "512"/>
 
-We will use this sketch as an example. This sketch is rich in detailed features and it is very suitable for AI colorization. We will describe some usages of our web APP in the colorization procedure.
+このスケッチを例として使用します。 このスケッチは詳細な機能が豊富で、AIのカラー化に非常に適しています。 私たちは、カラー化の手順で私たちのWeb APPのいくつかの使用法を説明します。
 
-*The AI is also good at deal with simple sketches without detailed features, check [here](https://github.com/lllyasviel/style2paints/blob/master/README.md) and find the example 5.*
+*AIは、詳細な機能を持たない単純なスケッチを扱うのにも適しています。[ここで確認し、例5を見つけてください。](https://github.com/lllyasviel/style2paints/blob/master/README.md)*
 
 ![image](https://user-images.githubusercontent.com/19834515/31306675-6cc3daf6-ab87-11e7-854a-8de39c30af69.png)
 
-Now upload our sketche and reference. We use a reference illustration with blue hair and gray background. You can select any reference images with any color. You can improve the colorization quality via trying more references and find a best one. There are nearly no trick to find the best reference in a single time. The more, the better. We highly recommend you use the images in *default_refernces.zip* and these images are selected by the author, well-suited for AI to read.
+スケッチとリファレンスをアップロードしてください。 我々は、青い髪と灰色の背景と参照イラストを使用しています。 任意の色の参照画像を選択できます。 より多くの参照を試し、最良のものを見つけることで色の質を向上させることができます。 一度に最高のリファレンスを見つけることはほとんどありません。 もっと、より良い。 *default_refernces.zip*の画像を使用することを強くお勧めします。これらの画像は著者が選択し、AIが読むのに適しています。
 
 ![image](https://user-images.githubusercontent.com/19834515/31306681-9b12ea6e-ab87-11e7-8299-3fb54188ec42.png)
 
-You can one of the two buttons to colorize your sketch.
+2つのボタンのうちの1つを使用して、スケッチを色分けすることができます。
 
 ![image](https://user-images.githubusercontent.com/19834515/31306698-ed00cc6a-ab87-11e7-91ca-ab8d45597c21.png)
 
-This four toggles are important for AI painting. We now list the results below.
+この4つのトグルは、AIペインティングにとって重要です。 以下に結果を示します。
 
 ![image](https://user-images.githubusercontent.com/19834515/31306706-1b17d918-ab88-11e7-9670-f7b54b9013bd.png)
 
@@ -36,13 +36,13 @@ This four toggles are important for AI painting. We now list the results below.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306714-462c2b86-ab88-11e7-98b9-9d791a724aef.png)
 
-Here is the comparison between V1-V4.
+ここに比較があります。
 
 ![image](https://user-images.githubusercontent.com/19834515/30781245-1ebc5240-a14e-11e7-9c92-c70eae744af8.png)
 
-Here is the detailed comparison.
+ここで詳細な比較があります。
 
-In this example, I think V4 is best, so lets continue with V4.
+この例では、最後の方が良いと思いますので、最後のオプションを続行してください。
 
 ![image](https://user-images.githubusercontent.com/19834515/31306723-7826e5e0-ab88-11e7-9f79-0c19cee53f91.png)
 
@@ -50,19 +50,21 @@ In this example, I think V4 is best, so lets continue with V4.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306730-8b5e3d8e-ab88-11e7-8534-75cfbea93ed6.png)
 
-When we move our mouse to the reference image, the cursor will becomes a cross. In fact, the reference image is a color picker and you can select any color in it. Now we select the skin color on the face. A tiny square is left to the reference image and the selected color will be shown here. In the screenshot above, the skin color is selected and the selected color is shown on the tiny square.
+マウスを参照画像に移動すると、カーソルは十字になります。 実際、参照画像はカラーピッカーであり、その中の任意の色を選択することができます。 今度は、顔の肌色を選択します。 小さな正方形が参照画像に残され、選択された色がここに表示されます。 上記のスクリーンショットでは、肌色が選択され、選択された色が小さな正方形に表示されます。
 
 ![image](https://user-images.githubusercontent.com/19834515/31306746-d17453e4-ab88-11e7-947c-a3c12ffaae6e.png)
 
-After the skin color is selected, you can move your mouse to the sketch and add hints for the AI by clicking where should be skin. You can click *colorize* to get new result and then add some additional hints and then click *colorize* and then add hints......But keep in mind that **small and pointed hints are fine and you do not need to full fill some color blocks**.
+次に、私たちは色を選択し、マウスは行の上に移動し、マウスは肌の色の部分をクリックする必要があります、プロセスは効果を見るために色をクリックし続けることができます。
+
+**注意！ 上のオンラインドラフトの落書きをしないでください。マウスを静かにクリックすると、小さなポイントが描かれます。**
 
 ![image](https://user-images.githubusercontent.com/19834515/31306754-f7326abc-ab88-11e7-884a-eb0cb7b88ab5.png)
 
-Now we add black hints to the tail.
+今度は尾に黒いヒントを追加します。
 
 ![sep2401000426812 fin](https://user-images.githubusercontent.com/19834515/30781737-1599bf00-a157-11e7-8ddb-00de5416fe13.png)
 
-After about 5 minutes, we get a good result. After this example, some may think of that V4 is always the best and we do not need V1-V3, but in fact V4 has its own drawbacks.
+約5分後、良い結果が得られます。 この例の後では、最後のオプションが常に最適で、他のオプションは必要ないと考える人もいるかもしれませんが、それぞれのオプションにはそれぞれの欠点があります。
 
 ![image](https://user-images.githubusercontent.com/19834515/31306776-8169df80-ab89-11e7-906c-19b94eaf9c90.png)
 
@@ -70,11 +72,11 @@ After about 5 minutes, we get a good result. After this example, some may think 
 
 ![image](https://user-images.githubusercontent.com/19834515/31306786-b1f5ec34-ab89-11e7-99db-c8d20cfcfccb.png)
 
-Each of V1, v2, V3, V4 has advantages and disadvantages, and V2 is the best in the example above.
+これらのオプションには長所と短所があり、上の例では2番目のオプションが最適です。
 
 ![image](https://user-images.githubusercontent.com/19834515/31306789-ccc407f8-ab89-11e7-8bf7-a5bded1ca991.png)
 
-These toggles related to inputs are important. 
+入力に関連するこれらのトグルは重要です。
 
 ![image](https://user-images.githubusercontent.com/19834515/31307112-d0e12dc4-ab8f-11e7-9bc5-309148312962.png)
 
@@ -82,7 +84,7 @@ These toggles related to inputs are important.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306841-5eca8b7c-ab8a-11e7-9412-679380a7b119.png)
 
-The 3 screenshots above show how if improves the result by denoising.
+上の3つのスクリーンショットは、ノイズ除去による結果を改善する方法を示しています。
 
 ![image](https://user-images.githubusercontent.com/19834515/31307131-0f9352cc-ab90-11e7-9366-e19e2854fac0.png)
 
@@ -92,8 +94,8 @@ The 3 screenshots above show how if improves the result by denoising.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306854-b451d7a8-ab8a-11e7-8390-662559eb4498.png)
 
-The 3 screenshots above show how it do style transfer for illustations.
+上の4つのスクリーンショットは、イラストレーションのスタイル転送をどのように行うかを示しています。
 
-PS: You can add any color hints, but the AI will sometimes resist to the hints in some cases.
+PS: 任意のカラーヒントを追加できますが、場合によってはAIがヒントに反することがあります。
 
-PSS: The secret of a good result is trying more reference images, and the *default_refernces.zip* is recommended.
+PSS: 良い結果の秘密は、より多くの参照画像を試して、*default_refernces.zip*が推奨されています。

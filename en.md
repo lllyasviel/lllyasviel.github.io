@@ -92,7 +92,7 @@ The 3 screenshots above show how if improves the result by denoising.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306854-b451d7a8-ab8a-11e7-8390-662559eb4498.png)
 
-The 3 screenshots above show how it do style transfer for illustations.
+The 4 screenshots above show how it do style transfer for illustations.
 
 PS: You can add any color hints, but the AI will sometimes resist to the hints in some cases.
 
