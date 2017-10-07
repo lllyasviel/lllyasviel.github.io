@@ -88,6 +88,8 @@ The 3 screenshots above show how if improves the result by denoising.
 
 ![image](https://user-images.githubusercontent.com/19834515/31307131-0f9352cc-ab90-11e7-9366-e19e2854fac0.png)
 
+![image](https://user-images.githubusercontent.com/19834515/31307142-44e43d06-ab90-11e7-8005-0a8006c71bad.png)
+
 ![image](https://user-images.githubusercontent.com/19834515/31306849-941f4a60-ab8a-11e7-890b-88bae54f8495.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/31306854-b451d7a8-ab8a-11e7-8390-662559eb4498.png)
