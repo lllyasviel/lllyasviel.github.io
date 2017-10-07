@@ -36,13 +36,13 @@ This four toggles are important for AI painting. We now list the results below.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306714-462c2b86-ab88-11e7-98b9-9d791a724aef.png)
 
-Here is the comparison between V1-V4.
+Here is the comparison.
 
 ![image](https://user-images.githubusercontent.com/19834515/30781245-1ebc5240-a14e-11e7-9c92-c70eae744af8.png)
 
 Here is the detailed comparison.
 
-In this example, I think V4 is best, so lets continue with V4.
+In this example, I think the last is best, so lets continue with the last option.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306723-7826e5e0-ab88-11e7-9f79-0c19cee53f91.png)
 
@@ -62,7 +62,7 @@ Now we add black hints to the tail.
 
 ![sep2401000426812 fin](https://user-images.githubusercontent.com/19834515/30781737-1599bf00-a157-11e7-8ddb-00de5416fe13.png)
 
-After about 5 minutes, we get a good result. After this example, some may think of that V4 is always the best and we do not need V1-V3, but in fact V4 has its own drawbacks.
+After about 5 minutes, we get a good result. After this example, some may think of that the last option is always the best and we do not need other options, but each option has its own drawbacks.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306776-8169df80-ab89-11e7-906c-19b94eaf9c90.png)
 
@@ -70,7 +70,7 @@ After about 5 minutes, we get a good result. After this example, some may think 
 
 ![image](https://user-images.githubusercontent.com/19834515/31306786-b1f5ec34-ab89-11e7-99db-c8d20cfcfccb.png)
 
-Each of V1, v2, V3, V4 has advantages and disadvantages, and V2 is the best in the example above.
+Each of these options has advantages and disadvantages, and the second option is the best in the example above.
 
 ![image](https://user-images.githubusercontent.com/19834515/31306789-ccc407f8-ab89-11e7-8bf7-a5bded1ca991.png)
 
