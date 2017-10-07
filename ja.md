@@ -78,7 +78,7 @@ zipファイルを解凍すると、次のようなイラストが表示され�
 
 入力に関連するこれらのトグルは重要です。
 
-![image](https://user-images.githubusercontent.com/19834515/31307112-d0e12dc4-ab8f-11e7-9bc5-309148312962.png)
+![image](https://user-images.githubusercontent.com/19834515/31307448-2f944944-ab97-11e7-843b-50d8c31a3933.png)
 
 ![image](https://user-images.githubusercontent.com/19834515/31159580-aca5c37e-a8fc-11e7-85c0-4393d88873e9.png)
 
