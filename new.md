@@ -26,17 +26,17 @@ Now upload our sketche and reference. We use a reference illustration with blue 
 
 You can one of the two buttons to colorize your sketch.
 
-![image](https://user-images.githubusercontent.com/19834515/30781146-a850f95e-a14c-11e7-8f6d-ea45159979f1.png)
+![image](https://user-images.githubusercontent.com/19834515/31306698-ed00cc6a-ab87-11e7-91ca-ab8d45597c21.png)
 
-This four toggles are important for AI painting. We now list the V1-V4 results below.
+This four toggles are important for AI painting. We now list the results below.
 
-![image](https://user-images.githubusercontent.com/19834515/30781175-f61130f0-a14c-11e7-90bc-e0643b830052.png)
+![image](https://user-images.githubusercontent.com/19834515/31306706-1b17d918-ab88-11e7-9670-f7b54b9013bd.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30781183-17ca6f18-a14d-11e7-8975-78f79b22226a.png)
+![image](https://user-images.githubusercontent.com/19834515/31306707-28acc07a-ab88-11e7-98c7-56ddacef264a.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30781210-64efe372-a14d-11e7-9c69-7d213ad0f573.png)
+![image](https://user-images.githubusercontent.com/19834515/31306709-367de170-ab88-11e7-9ad3-9e5caacc003a.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30781221-950d49d2-a14d-11e7-8e4c-4a3a138ed9ac.png)
+![image](https://user-images.githubusercontent.com/19834515/31306714-462c2b86-ab88-11e7-98b9-9d791a724aef.png)
 
 Here is the comparison between V1-V4.
 
@@ -46,35 +46,35 @@ Here is the detailed comparison.
 
 In this example, I think V4 is best, so lets continue with V4.
 
-![image](https://user-images.githubusercontent.com/19834515/30781636-81939cf0-a155-11e7-8f5f-b023cff12ad4.png)
+![image](https://user-images.githubusercontent.com/19834515/31306723-7826e5e0-ab88-11e7-9f79-0c19cee53f91.png)
+
+![image](https://user-images.githubusercontent.com/19834515/31306728-83325500-ab88-11e7-8237-8ef091145f70.png)
+
+![image](https://user-images.githubusercontent.com/19834515/31306730-8b5e3d8e-ab88-11e7-8534-75cfbea93ed6.png)
 
 When we move our mouse to the reference image, the cursor will becomes a cross. In fact, the reference image is a color picker and you can select any color in it. Now we select the skin color on the face. A tiny square is left to the reference image and the selected color will be shown here. In the screenshot above, the skin color is selected and the selected color is shown on the tiny square.
 
-![image](https://user-images.githubusercontent.com/19834515/30781698-5bf1aec8-a156-11e7-9ee5-01ada5f5b7b4.png)
+![image](https://user-images.githubusercontent.com/19834515/31306746-d17453e4-ab88-11e7-947c-a3c12ffaae6e.png)
 
 After the skin color is selected, you can move your mouse to the sketch and add hints for the AI by clicking where should be skin. You can click *colorize* to get new result and then add some additional hints and then click *colorize* and then add hints......But keep in mind that **small and pointed hints are fine and you do not need to full fill some color blocks**.
 
-![image](https://user-images.githubusercontent.com/19834515/30781714-b948f3a6-a156-11e7-9e3c-1562bd6a33e1.png)
+![image](https://user-images.githubusercontent.com/19834515/31306754-f7326abc-ab88-11e7-884a-eb0cb7b88ab5.png)
 
 Now we add black hints to the tail.
-
-![image](https://user-images.githubusercontent.com/19834515/30781725-f1555a50-a156-11e7-97ad-2c39fe5236cc.png)
-
-Now the ears.
 
 ![sep2401000426812 fin](https://user-images.githubusercontent.com/19834515/30781737-1599bf00-a157-11e7-8ddb-00de5416fe13.png)
 
 After about 5 minutes, we get a good result. After this example, some may think of that V4 is always the best and we do not need V1-V3, but in fact V4 has its own drawbacks.
 
-![image](https://user-images.githubusercontent.com/19834515/30924534-95c6cff6-a3e1-11e7-897b-b8871267489d.png)
+![image](https://user-images.githubusercontent.com/19834515/31306776-8169df80-ab89-11e7-906c-19b94eaf9c90.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30924506-811735dc-a3e1-11e7-88af-78dc2eeeedf6.png)
+![image](https://user-images.githubusercontent.com/19834515/31306783-951b479e-ab89-11e7-9c7b-f08f095d59b6.png)
 
-![image](https://user-images.githubusercontent.com/19834515/30924716-2981f64e-a3e2-11e7-9d51-ea2b67a8cda6.png)
+![image](https://user-images.githubusercontent.com/19834515/31306786-b1f5ec34-ab89-11e7-99db-c8d20cfcfccb.png)
 
 Each of V1, v2, V3, V4 has advantages and disadvantages, and V2 is the best in the example above.
 
-![image](https://user-images.githubusercontent.com/19834515/31159367-189d7d4e-a8fb-11e7-92ae-6e0c9b6f3913.png)
+![image](https://user-images.githubusercontent.com/19834515/31306789-ccc407f8-ab89-11e7-8bf7-a5bded1ca991.png)
 
 *FSAA* toggles are important. The *D0* and *D1* can denoise the results and the *SX* can do style transfer for illustrations.
 
